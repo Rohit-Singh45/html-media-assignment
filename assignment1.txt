@@ -1,0 +1,30 @@
+Q3. How much space does the following data types take?
+
+
+int : 4 bytes
+
+bool : 1 bytes
+
+float : 4 bytes
+
+
+
+Q4. What is the output of this program?
+int main() {
+int a = 4;
+int b = 5;
+a++, b--;
+cout << ++a << " " << b--;
+}
+
+Ans 
+ 	6 4 
+
+
+
+
+Q6. How many of these can be a variable name ?
+
+ans : 2
+	_FLOAT , FLOAT 
+	
