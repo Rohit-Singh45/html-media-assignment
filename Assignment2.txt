@@ -1,0 +1,14 @@
+Q1
+output : 0
+
+
+Q2
+output : 1  0
+
+
+Q3
+output : -2
+
+
+Q6
+output : 49
